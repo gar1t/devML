@@ -6943,8 +6943,8 @@ button[type="submit"] .loading {
   right: 0;
   bottom: 0;
   background: linear-gradient(
-    rgba(0,0,51,0.7),
-    rgba(0,0,51,0.7)),
+    rgba(0,0,51,0.6),
+    rgba(0,0,51,0.6)),
     url("../img/ml_icons_.jpg");
   background-size: cover;
 }

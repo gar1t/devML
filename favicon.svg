@@ -58,16 +58,22 @@
      id="layer1"
      transform="translate(-200.00001,-365.21934)">
     <circle
-       style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#155b85;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5432"
        cx="290.71429"
        cy="455.93362"
-       r="90.714287" />
+       r="90.714287"
+       inkscape:export-filename="/home/garrett/SCM/devml/assets/img/favicon.png"
+       inkscape:export-xdpi="96.236221"
+       inkscape:export-ydpi="96.236221" />
     <circle
        r="39.285717"
        cy="455.93362"
        cx="290.71429"
        id="circle5434"
-       style="opacity:1;fill:#aed212;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/garrett/SCM/devml/assets/img/favicon.png"
+       inkscape:export-xdpi="96.236221"
+       inkscape:export-ydpi="96.236221" />
   </g>
 </svg>
