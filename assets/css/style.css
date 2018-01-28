@@ -3113,7 +3113,7 @@ li {
   text-transform: uppercase;
   text-decoration: none;
   line-height: 1;
-  letter-spacing: 0.59em;
+  letter-spacing: 0.25em;
   border: none;
   border-radius: 4px;
   overflow: hidden;
@@ -6943,8 +6943,8 @@ button[type="submit"] .loading {
   right: 0;
   bottom: 0;
   background: linear-gradient(
-    rgba(0,0,51,0.6),
-    rgba(0,0,51,0.6)),
+    rgba(0,0,51,0.75),
+    rgba(0,0,51,0.75)),
     url("../img/ml_icons_.jpg");
   background-size: cover;
 }
@@ -6954,9 +6954,20 @@ button[type="submit"] .loading {
 }
 
 .hero-tagline {
-  margin-top: 20px;
-  font-size: 185%;
+  font-size: 210%;
   font-weight: 300;
+  max-width: 22em;
+  margin: 20px auto 0 auto;
+}
+
+@media (max-width: 767px) {
+  .hero-logo {
+    height: 65px;
+  }
+
+  .hero-tagline {
+    font-size: 200%;
+  }
 }
 
 p.hero {
