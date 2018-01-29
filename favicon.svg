@@ -25,7 +25,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
+     inkscape:zoom="2.8"
      inkscape:cx="-17.85715"
      inkscape:cy="68.571421"
      inkscape:document-units="px"
@@ -66,6 +66,15 @@
        inkscape:export-filename="/home/garrett/SCM/devml/assets/img/favicon.png"
        inkscape:export-xdpi="96.236221"
        inkscape:export-ydpi="96.236221" />
+    <circle
+       inkscape:export-ydpi="96.236221"
+       inkscape:export-xdpi="96.236221"
+       inkscape:export-filename="/home/garrett/SCM/devml/assets/img/favicon.png"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4188"
+       cx="290.71429"
+       cy="455.93362"
+       r="49.64286" />
     <circle
        r="39.285717"
        cy="455.93362"
