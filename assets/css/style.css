@@ -6956,7 +6956,7 @@ button[type="submit"] .loading {
 .hero-tagline {
   font-size: 210%;
   font-weight: 300;
-  max-width: 22em;
+  max-width: 20em;
   margin: 20px auto 0 auto;
 }
 
@@ -6973,6 +6973,8 @@ button[type="submit"] .loading {
 p.hero {
   margin-top: 40px;
   font-size: 125%;
+  max-width: 42em;
+  margin: 20px auto 0 auto;
 }
 
 .bg2 {
