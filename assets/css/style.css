@@ -6973,7 +6973,7 @@ button[type="submit"] .loading {
 p.hero {
   margin-top: 40px;
   font-size: 125%;
-  max-width: 42em;
+  max-width: 800px;
   margin: 20px auto 0 auto;
 }
 
