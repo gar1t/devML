@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="509.07162mm"
-   height="188.58023mm"
-   viewBox="0 0 1803.7971 668.19766"
-   id="svg4159"
+   width="124.98711mm"
+   height="31.221733mm"
+   viewBox="0 0 442.8677 110.62819"
+   id="svg4553"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="guild-white.svg">
+   sodipodi:docname="logo-blue.svg">
   <defs
-     id="defs4161" />
+     id="defs4555" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,22 +26,22 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="887.3686"
-     inkscape:cy="-223.23073"
+     inkscape:cx="346.43388"
+     inkscape:cy="-150.40021"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     inkscape:window-maximized="1" />
   <metadata
-     id="metadata4164">
+     id="metadata4558">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -56,22 +56,19 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1395.47,-298.84604)">
+     transform="translate(704.29102,414.38047)">
     <text
-       inkscape:export-ydpi="183.96001"
-       inkscape:export-xdpi="183.96001"
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:851.37115479px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-1387.8385"
-       y="878.07996"
-       id="text4710"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0294976,0.97134757)"><tspan
-         dx="0 -2.4688981"
+       style="font-style:normal;font-weight:normal;font-size:138.2849884px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#283593;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-708.43958"
+       y="-303.75229"
+       id="text4230"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4712"
-         x="-1387.8385"
-         y="878.07996"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#ffffff;fill-opacity:1">guild.ai</tspan></text>
+         id="tspan4232"
+         x="-708.43958"
+         y="-303.75229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.28523254px;line-height:125%;font-family:'SF Fourche';-inkscape-font-specification:'SF Fourche, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#283593;fill-opacity:1"
+         dx="0 -3.1790996 -2.4050655 0.50925559 -2.3594649">devML</tspan></text>
   </g>
 </svg>

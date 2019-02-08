@@ -1,1 +1,19 @@
-theme: jekyll-theme-cayman
+title: devML
+description: A community of machine learning engineers and researchers
+baseurl: '/'
+url: 'https://devml.io'
+permalink: pretty
+exclude:
+  - artwork
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - LICENSE.txt
+  - lib/
+  - README.md
+search_enabled: true
+aux_links:
+  'devML on GitHub':
+    - 'https://github.com/gar1t/devML'
