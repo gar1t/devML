@@ -1,5 +1,4 @@
 title: devML
-description: A community of machine learning engineers and researchers
 baseurl: '/'
 url: 'https://devml.io'
 permalink: pretty
@@ -13,6 +12,7 @@ exclude:
   - LICENSE.txt
   - lib/
   - README.md
+  - contributors.md
 search_enabled: true
 aux_links:
   'devML on GitHub':

@@ -1,3 +1,12 @@
+---
+title: Contributing
+layout: default
+permalink: contributing/
+nav_order: 998
+---
+
+# Contributing
+
 The Collective Code Construction Contract (C4) is an evolution of the
 github.com [Fork + Pull Model](https://help.github.com/articles/about-pull-requests/),
 aimed at providing an optimal collaboration model for free software

@@ -78,21 +78,21 @@
 
 .navigation-list-link {
   display: block;
-  padding-top: $sp-1;
-  padding-bottom: $sp-1;
-  color: #fff;
+  padding-top: $nav-link-padding;
+  padding-bottom: $nav-link-padding;
+  color: $nav-link-color;
 
   &:hover {
     text-decoration: underline;
     text-decoration-style: dotted;
-    text-decoration-color: #ccc;
+    text-decoration-color: $nav-child-link-color;
   }
 
   &.active {
     font-weight: 600;
     color: #fff;
     text-decoration: none;
-    font-size: 1.4em;
+    font-size: 1.25em;
   }
 }
 
