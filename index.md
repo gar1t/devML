@@ -6,15 +6,20 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-<img src="/assets/images/logo-blue.svg" style="height:100px">
+<img src="/assets/images/logo-blue.svg" style="height:70px" class="mt-3">
 
-# A community of machine learning engineers and researchers
-{: .fs-9 }
-
-devML is organizing an unconference on March 29, 2019 in Chicago at HERE Technologies.
-{: .fs-6 .fw-300 }
+# Bringing together experts in machine learning science and engineering
+{: .fs-7 }
 
 ---
+
+To do:
+
+- What is this
+  - xxx
+- Who is this for
+- Upcoming events
+
 
 ## Getting started
 

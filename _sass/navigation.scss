@@ -5,7 +5,7 @@
 .site-title {
   display: block;
   flex: 1 1 auto;
-  color: $body-heading-color;
+  color: #fff;
   background-color: $sidebar-color;
 
   @include mq(md) {
@@ -15,7 +15,7 @@
     z-index: 101;
     height: 60px;
     padding-top: $sp-4;
-    border-bottom: $border $border-color;
+    border-bottom: $border $site-title-border-color;
   }
 }
 
@@ -35,7 +35,7 @@
   list-style: none;
 
   .navigation-list-link {
-    color: $nav-child-link-color;
+    color: #ccc;
   }
 
   .navigation-list-item {
@@ -80,11 +80,19 @@
   display: block;
   padding-top: $sp-1;
   padding-bottom: $sp-1;
+  color: #fff;
+
+  &:hover {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: #ccc;
+  }
 
   &.active {
     font-weight: 600;
-    color: $body-heading-color;
+    color: #fff;
     text-decoration: none;
+    font-size: 1.4em;
   }
 }
 
