@@ -17,3 +17,5 @@ search_enabled: true
 aux_links:
   'devML on GitHub':
     - 'https://github.com/gar1t/devML'
+  'Slack channel':
+    - 'https://join.slack.com/t/devmlorg/shared_invite/enQtNDk2OTU4MTAzNjMzLTJjNGQzMjkwYjVmZjdkZTJlYTcxZDEyMTAxYTQwZDNlNzllNTEzMWJmNmZiNDU1N2UwODM2NGM2NTVkMWI0MDk'
