@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Unconference
+permalink: /unconference/
 nav_order: 3
 ---
 
 # Unconference format
+
+![](/assets/images/unconference.jpg)
 
 devML uses the
 [unconference](https://en.wikipedia.org/wiki/Unconference) format for
 its half day and full day events. An unconference provides just enough
 structure for participants to work collaboratively in the planning and
 running of an event.
-
-![](/assets/images/unconference.jpg)
 
 A devML unconference is characterized by:
 

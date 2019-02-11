@@ -1,12 +1,15 @@
 ---
 layout: default
 title: Outline
+permalink: /outline/
 nav_order: 2
 ---
 
 # Planning outline
 
-The outline below is a working draft of a comprehensive outline of
+![](/assets/images/plan.svg)
+
+This outline below is a working draft of a comprehensive outline of
 topics-of-interest. We use this outline to discuss possible content
 and structure for unconferences.
 
