@@ -1,11 +1,11 @@
 ---
-title: Code of conduct
+title: Code of Conduct
 layout: default
 permalink: conduct/
 nav_order: 999
 ---
 
-# Code of conduct
+# Code of Conduct
 
 ## Our pledge
 
